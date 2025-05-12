@@ -30,6 +30,7 @@ public class MathUtilsTest {
 			assertTrue(mathUtils.isEven(6));
 			assertTrue(mathUtils.isEven(8));
 			assertTrue(mathUtils.isEven(10));
+			assertTrue(mathUtils.isEven(12));
 		}
 
 		@Test
